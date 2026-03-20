@@ -1,0 +1,9 @@
+Rank,Occupation,Group,AI Exposure,Median Wage (2024),Growth % (2024-34),Enhancement Score
+1,Personal Financial Advisors,analytical,1.401,102140.0,10.0,0.822
+2,Financial and Investment Analysts,analytical,1.381,101350.0,6.0,0.689
+3,Accountants and Auditors,analytical,1.482,81680.0,5.0,0.499
+4,Budget Analysts,analytical,1.503,87930.0,1.0,0.423
+5,Credit Analysts,analytical,1.345,80970.0,-4.0,0.264
+6,Loan Officers,routine,1.386,74180.0,2.0,0.049
+7,Insurance Underwriters,routine,1.327,79880.0,-3.0,-0.164
+8,"Claims Adjusters, Examiners, and Investigators",routine,1.274,76790.0,-5.0,-0.179
