@@ -1,0 +1,2 @@
+response_variable,group_1,group_2,alternative_hypothesis,alpha,n_1,n_2,mean_1,mean_2,t_statistic,degrees_of_freedom,p_value,decision
+projected_growth_pct,judgment-intensive,process-driven,mu_1 > mu_2,0.05,7,5,5.714285714285714,-0.6,1.9155810268793285,9.600259614272067,0.042820828550883316,reject H0

@@ -1,3 +1,3 @@
-group_label,ai_exposure,median_annual_wage_2024,projected_growth_pct_2024_2034,ai_enhancement_score
-analytical,1.422,90814.0,3.6,0.539
-routine,1.329,76950.0,-2.0,-0.098
+job_group,projected_growth_pct,predicted_projected_growth,annual_openings,ai_exposure
+judgment-intensive,5.714,3.596,26871.429,1.432
+process-driven,-0.6,2.01,12860.0,1.329

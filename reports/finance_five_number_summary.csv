@@ -1,0 +1,4 @@
+group,min,q1,median,q3,max
+judgment-intensive,-4,2.0,5.0,8.0,19
+process-driven,-5,-3.0,-2.0,2.0,5
+all_finance_jobs,-5,-2.25,2.5,5.25,19

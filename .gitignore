@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .DS_Store
+poster_assets/
+design_ref_*.svg

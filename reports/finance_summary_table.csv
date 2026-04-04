@@ -1,9 +1,13 @@
-Rank,Occupation,Group,AI Exposure,Median Wage (2024),Growth % (2024-34),Enhancement Score
-1,Personal Financial Advisors,analytical,1.401,102140.0,10.0,0.822
-2,Financial and Investment Analysts,analytical,1.381,101350.0,6.0,0.689
-3,Accountants and Auditors,analytical,1.482,81680.0,5.0,0.499
-4,Budget Analysts,analytical,1.503,87930.0,1.0,0.423
-5,Credit Analysts,analytical,1.345,80970.0,-4.0,0.264
-6,Loan Officers,routine,1.386,74180.0,2.0,0.049
-7,Insurance Underwriters,routine,1.327,79880.0,-3.0,-0.164
-8,"Claims Adjusters, Examiners, and Investigators",routine,1.274,76790.0,-5.0,-0.179
+rank,Occupation,Group,Actual Growth % (2024-34),Predicted Growth %,Annual Openings
+1,Financial Examiners,judgment-intensive,19,2.3588171174683454,5700
+2,Personal Financial Advisors,judgment-intensive,10,5.118304429369704,24100
+3,Financial and Investment Analysts,judgment-intensive,6,4.073782757760531,25100
+4,Accountants and Auditors,judgment-intensive,5,2.8139403310694426,124200
+5,Tax Preparers,process-driven,5,-1.7729916281517468,10400
+6,Credit Counselors,judgment-intensive,3,-0.11251058908224287,2200
+7,Loan Officers,process-driven,2,3.9160665247005872,20300
+8,Budget Analysts,judgment-intensive,1,0.4514934931965131,3100
+9,"Tax Examiners and Collectors, and Revenue Agents",process-driven,-2,2.042192873348146,4300
+10,Insurance Underwriters,process-driven,-3,2.636253257099865,8200
+11,Credit Analysts,judgment-intensive,-4,10.468389040675834,3700
+12,"Claims Adjusters, Examiners, and Investigators",process-driven,-5,3.230281132796793,21100
