@@ -1,0 +1,17 @@
+Large Task-Balance Boxplot Summary
+Source: O*NET occupation/work-activity tables plus O*NET Local Trends
+Selection rule: top 40 and bottom 40 occupations by task_balance
+
+more judgment-heavy:
+  count = 40
+  mean projected growth = 5.125
+  median projected growth = 4.000
+  min = -14.000
+  max = 34.000
+
+more process-heavy:
+  count = 40
+  mean projected growth = 1.425
+  median projected growth = 2.000
+  min = -26.000
+  max = 22.000
